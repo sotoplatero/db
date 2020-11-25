@@ -1,12 +1,1 @@
-[ { title: 'githubDB rocks',
-    published: 'today',
-    rating: '4 stars',
-    _id: 'b1cdbb3525b84e8c822fc78896d0ca7b' },
-  { title: 'githubDB rocks',
-    published: 'yesterday',
-    rating: '5 stars',
-    _id: '42997c62e1714e9f9d88bf3b87901f3b' },
-  { title: 'githubDB rocks',
-    published: 'today',
-    rating: '5 stars',
-    _id: '4ca1c1597ddc4020bc41b4418e7a568e' } ]
+'[]'
